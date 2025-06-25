@@ -4,7 +4,7 @@ A simple and clean Employee Management System built using **React.js** and **Tai
 It allows an admin to assign tasks to employees, track task status, and store data using localStorage.
 
 > ✅ Live Demo: [Click to View Live Site](https://employees-management-sys.netlify.app/)
-
+- Check LocalStorage to login as a Admin or Employee
 ---
 
 ## 📌 Features
