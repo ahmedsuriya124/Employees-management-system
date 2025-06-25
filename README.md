@@ -1,12 +1,38 @@
-# React + Vite
+# 👨‍💼 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Employee Management System built using **React.js** and **Tailwind CSS**.  
+It allows an admin to assign tasks to employees, track task status, and store data using localStorage.
 
-Currently, two official plugins are available:
+> ✅ Live Demo: [Click to View Live Site](https://employees-management-sys.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 **Admin Panel** to assign tasks
+- 👤 **Employee Task Management**
+- 📝 Track task status: Active, Completed, Failed
+- 🗃️ Data stored and managed in **LocalStorage**
+- 📁 Organized folder structure with React Context API
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|--------|
+| React.js | Frontend Framework |
+| Tailwind CSS | Styling |
+| Context API | State Management |
+| LocalStorage | Persistent Data |
+| Netlify | Deployment |
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/employee-management-system.git
+cd employee-management-system
+npm install
+npm start
